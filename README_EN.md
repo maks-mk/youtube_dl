@@ -1,3 +1,27 @@
+---
+title: YouTube Downloader
+description: A program for downloading videos and audio from YouTube with a user-friendly graphical interface
+author: Your Name
+version: 1.0.0
+license: MIT
+language: English
+tags:
+  - youtube
+  - downloader
+  - python
+  - gui
+  - video
+  - audio
+requirements:
+  - Python 3.7+
+  - FFmpeg
+  - Web browser
+dependencies:
+  - yt-dlp>=2023.12.30
+  - pyperclip>=1.8.2
+  - pyinstaller>=6.3.0
+---
+
 # YouTube Downloader
 
 A program for downloading videos and audio from YouTube with a user-friendly graphical interface.
